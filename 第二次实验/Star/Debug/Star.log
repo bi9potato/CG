@@ -1,0 +1,17 @@
+﻿  StarView.cpp
+e:\star\star\starview.cpp(67): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\star\star\starview.cpp(87): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\star\star\starview.cpp(91): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\star\star\starview.cpp(94): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\star\star\starview.cpp(99): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\star\star\starview.cpp(104): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\star\star\starview.cpp(105): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\star\star\starview.cpp(126): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\star\star\starview.cpp(127): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\star\star\starview.cpp(130): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\star\star\starview.cpp(135): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\star\star\starview.cpp(138): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\star\star\starview.cpp(142): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\star\star\starview.cpp(280): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\star\star\starview.cpp(295): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Star.vcxproj -> E:\Star\Debug\Star.exe
